@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Kenta1714/Kenta1714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# プロフィール
 
-Here are some ideas to get you started:
+機械学習・深層学習を中心に研究・開発を行っています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 経歴
+
+- **2023年4月**：東京大学 学部
+- **2023年4月**：東京大学 理科一類 入学
+- **2025年4月**：東京大学 工学部システム創成学科SDM 進学
+- **2027年3月**：東京大学 工学部システム創成学科SDM 卒業見込み
+- **2027年4月**：東京大学大学院 工学系研究科システム創成学専攻 進学予定
+
+## 研究
+
+### 学部: Transformerを用いた金融時系列予測
+**東京大学 和泉研究室**
+
+## インターン
+- **2025年3月 – 2026年4月**：クラフトバンク株式会社
+  - 職種: CSエンジニア
+  - 業務内容: 業務用RAGアプリケーションの開発、チャーン分析など
+- **2025年3月 – 2026年4月**：住信SBIネット銀行株式会社
+  - 職種: データサイエンティスト
+  - 業務内容: 機械学習モデルの構築
+
+
