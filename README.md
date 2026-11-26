@@ -15,7 +15,7 @@
 
 ## 研究
 
-- 学部：東京大学工学部システム創成学科 和泉研究室（https://sites.google.com/socsim.org/izumi-lab）
+- 学部：東京大学工学部システム創成学科 和泉研究室（ https://sites.google.com/socsim.org/izumi-lab ）
   - 研究内容: Transformerを用いた金融時系列予測
 
 ## インターン
